@@ -1,0 +1,5 @@
+<!-- pattern.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <path d="M50 100c-10-20 30-30 40-10s40-10 40 10 40 20 20 40c-20 20-40 0-40 0s-20 20-40 0c-20-20 0-40 0-40z"
+        fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="4" />
+</svg>
